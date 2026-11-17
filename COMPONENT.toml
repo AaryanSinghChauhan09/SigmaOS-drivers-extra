@@ -3,12 +3,12 @@ name = "SigmaOS-mint-drivers-extra"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "mint-drivers-extra component"
+description = "Extra drivers for SigmaOS inspired by Linux Mint"
 upstream = []
 
 [contract]
 provides = ["component"]
-depends_on = []
+depends_on = ["SigmaOS-system"]
 
 [maturity]
 status = "Scaffold"
