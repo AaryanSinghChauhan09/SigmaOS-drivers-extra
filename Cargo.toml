@@ -1,10 +1,10 @@
 [package]
-name = "SigmaOS-mint-drivers-extra"
+name = "sigmaos-drivers-extra"
 version = "0.1.0"
 edition = "2021"
 license = "Apache-2.0"
-description = "SigmaOS mint-drivers-extra component"
+description = "SigmaOS drivers-extra component"
 
 [lib]
-name = "mint_drivers_extra"
+name = "sigmaos_drivers_extra"
 path = "src/lib.rs"

@@ -1,8 +1,8 @@
-// Integration test for SigmaOS-mint-drivers-extra
+// Integration test for SigmaOS-drivers-extra
 // Verifies the crate builds and links as a dependency.
 #![allow(unused_imports)]
 
-use mint_drivers_extra as _;
+use sigmaos_drivers_extra as _;
 
 #[test]
 fn crate_links_and_runs() {

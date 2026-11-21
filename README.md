@@ -1,4 +1,4 @@
-# SigmaOS-mint-drivers-extra
+# SigmaOS-drivers-extra
 
 Extra drivers for SigmaOS inspired by Linux Mint
 
